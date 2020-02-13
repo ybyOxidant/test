@@ -1,3 +1,3 @@
 # test
 just learn about how to use it
-尝试加一点东西进去
+there can't contain Chinese words.
